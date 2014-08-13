@@ -1,4 +1,4 @@
-Minecraft server console on a webpage.
+# Minecraft server console on a webpage.
 
 Dependencies:
 socket.io
