@@ -1,13 +1,16 @@
 # Minecraft server console on a webpage.
 
 Dependencies:
-socket.io
-connect
+
+- node.js
+- socket.io
+- connect
 
 Get started:
+
 1. Install dependencies
 2. Download a minecraft server jar file and place it inside the Server folder (make sure you name it minecraft_server.jar)
 3. Run "node MinecraftServerConsole.js"
-4. Open "localhost:2020" with a browser of your choice.
+4. Open [localhost:2020](http://localhost:2020) with a browser of your choice.
 
 All configuration is in the main js file.
